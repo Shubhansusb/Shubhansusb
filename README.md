@@ -2,7 +2,7 @@
 
 **Software Engineer** — React · Next.js · TypeScript · Capacitor · Firebase · Node.js · C++
 
-Building cross-platform mobile and web applications at [ParlayPlay](https://parlayplay.io). Based in Pune, India.
+Building cross-platform mobile 
 
 ---
 
