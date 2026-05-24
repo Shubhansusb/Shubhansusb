@@ -3,7 +3,7 @@
 <p align="center">
     <b>Software Engineer</b> · React · Next.js · Capacitor · Firebase
   <br/>
-  Building cross-platform apps at <a href="https://parlayplay.io">@ParlayPlay</a> · Pune, India
+  Building cross-platform apps 
 </p>
 
 ---
