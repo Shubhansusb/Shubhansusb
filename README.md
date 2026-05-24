@@ -27,12 +27,3 @@
 
 ---
 
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubhansusb&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shubhansusb&theme=github-dark&hide_border=true" />
-</p>
