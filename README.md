@@ -10,7 +10,7 @@ Building cross-platform mobile and web applications at [ParlayPlay](https://parl
 
 - Currently working on Capacitor 8 mobile apps, OneSignal push notifications, and native Android/iOS optimizations
 - Interested in Service Workers, PWA architecture, and CI/CD pipelines
-- Practise DSA daily — trees, graphs, and dynamic programming in C++ on LeetCode
+- DSA - trees, graphs, and dynamic programming in C++ on LeetCode
 - Also follow XAUUSD markets on the side
 
 ---
