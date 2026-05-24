@@ -1,6 +1,6 @@
 # Shubhansu Singh Bhadoria
 
-**Software Engineer** — React · Next.js · TypeScript · Capacitor · Firebase · Node.js
+**Software Engineer** — React · Next.js · TypeScript · Capacitor · Firebase · Node.js · C++
 
 Building cross-platform mobile and web applications at [ParlayPlay](https://parlayplay.io). Based in Pune, India.
 
@@ -10,6 +10,7 @@ Building cross-platform mobile and web applications at [ParlayPlay](https://parl
 
 - Currently working on Capacitor 8 mobile apps, OneSignal push notifications, and native Android/iOS optimizations
 - Interested in Service Workers, PWA architecture, and CI/CD pipelines
+- Practise DSA daily — trees, graphs, and dynamic programming in C++ on LeetCode
 - Also follow XAUUSD markets on the side
 
 ---
@@ -23,6 +24,7 @@ Building cross-platform mobile and web applications at [ParlayPlay](https://parl
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
