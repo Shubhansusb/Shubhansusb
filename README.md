@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Shubhansu 👋</h1>
 
 <p align="center">
-  <b>Full-Stack & Mobile Engineer</b> · React · Next.js · Capacitor · Firebase
+    <b>Software Engineer</b> · React · Next.js · Capacitor · Firebase
   <br/>
   Building cross-platform apps at <a href="https://parlayplay.io">@ParlayPlay</a> · Pune, India
 </p>
