@@ -10,7 +10,7 @@ Building cross-platform mobile and web applications at [ParlayPlay](https://parl
 
 - Currently working on Capacitor 8 mobile apps, OneSignal push notifications, and native Android/iOS optimizations
 - Interested in Service Workers, PWA architecture, and CI/CD pipelines
-- DSA - trees, graphs, and dynamic programming in C++ on LeetCode
+- Practise DSA daily — trees, graphs, and dynamic programming in C++ on LeetCode
 - Also follow XAUUSD markets on the side
 
 ---
@@ -29,9 +29,12 @@ Building cross-platform mobile and web applications at [ParlayPlay](https://parl
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhansusb&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhansusb&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubhansusb&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shubhansusb&theme=github-dark&hide_border=true" />
 </p>
