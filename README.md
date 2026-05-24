@@ -13,7 +13,7 @@
 - 🔭 Currently working on **Capacitor 8 mobile apps** and **OneSignal push notifications**
 - 🌱 Deep-diving into **native Android/iOS** optimizations and **Service Workers / PWA**
 - 💬 Ask me about **React, Next.js, Capacitor, Firebase, Node.js**
-- ⚡ Fun fact: I also trade **XAUUSD** (Gold) on the side
+
 
 ---
 
@@ -40,14 +40,3 @@
 
 ---
 
-### 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shubhansusb&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/Shubhansusb">github.com/Shubhansusb</a>
-</p>
