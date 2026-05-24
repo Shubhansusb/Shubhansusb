@@ -2,8 +2,6 @@
 
 **Software Engineer** — React · Next.js · TypeScript · Capacitor · Firebase · Node.js · C++
 
-Building cross-platform mobile 
-
 ---
 
 ### About
